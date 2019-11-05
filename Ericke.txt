@@ -1,0 +1,485 @@
+{
+  "id": "25a03ea9-3615-44b3-8e13-cb373327a5bd",
+  "version": "2.0",
+  "name": "Ericke",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSfJSi8XDNx-KlsR4xNYEoyb01pzbRaHB5Nj5JNBvh_SQMew4Q/viewform?vc=0&c=0&w=1",
+  "tests": [{
+    "id": "5f045890-8406-4c9c-8114-0b49c37686a0",
+    "name": "erick",
+    "commands": [{
+      "id": "95521008-e4d5-4ad8-bd2d-c657b3ce34a2",
+      "comment": "",
+      "command": "open",
+      "target": "/forms/d/e/1FAIpQLSfJSi8XDNx-KlsR4xNYEoyb01pzbRaHB5Nj5JNBvh_SQMew4Q/viewform?vc=0&c=0&w=1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "366831fa-67e9-4bf3-ba17-d42d815c2843",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x754",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "35521627-f363-4fbe-ac41-38e9c712d0a9",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputMainContent",
+      "targets": [
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputMainContent", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div[2]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "85b11b3e-90d3-4bee-840c-5d25ba7c9d05",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.366340186",
+      "targets": [
+        ["name=entry.366340186", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.366340186']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4fd89661-5a9c-4cfe-9cca-936a109eba68",
+      "comment": "",
+      "command": "type",
+      "target": "name=entry.366340186",
+      "targets": [
+        ["name=entry.366340186", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.366340186']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "ERICK RODRIGO SERRA DA SILVA"
+    }, {
+      "id": "bf447256-5850-4632-8aa2-851ef8fb600c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "42782bd3-1d82-47de-b201-661583bcab50",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0001-11-06"
+    }, {
+      "id": "2475a617-72d6-4ef0-832d-8af92e862cdc",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0019-11-06"
+    }, {
+      "id": "38837694-6458-4ed5-95a3-720c253afc88",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0199-11-06"
+    }, {
+      "id": "b32b88b1-64ad-4dda-ab7c-10a7a97b210c",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "1992-11-06"
+    }, {
+      "id": "c6ba9b64-c725-40c1-b7ab-83fdab975c8d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputMainContent",
+      "targets": [
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputMainContent", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[3]/div/div[2]/div/div", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "75565109-f244-4b7c-9f67-1b95ea0bedbe",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.2089971292",
+      "targets": [
+        ["name=entry.2089971292", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.2089971292']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[3]/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d94f0e88-7d06-43ca-af3d-f495603a7052",
+      "comment": "",
+      "command": "type",
+      "target": "name=entry.2089971292",
+      "targets": [
+        ["name=entry.2089971292", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.2089971292']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[3]/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "erickrodrigoserradasilva@unigranrio.br"
+    }, {
+      "id": "4a0d1f61-eb3d-4585-bebb-68692bac4b3e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormviewerViewItemsRadioOptionContainer:nth-child(1) .quantumWizTogglePaperradioOffRadio",
+      "targets": [
+        ["css=.freebirdFormviewerViewItemsRadioOptionContainer:nth-child(1) .quantumWizTogglePaperradioOffRadio", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[4]/div/div[2]/div/span/div/div/label/div/div/div[3]/div", "xpath:idRelative"],
+        ["xpath=//label/div/div/div[3]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e05f160c-894a-441b-80ea-5f75c945f651",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quantumWizTextinputPapertextareaUnderline",
+      "targets": [
+        ["css=.quantumWizTextinputPapertextareaUnderline", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[2]/div/div[3]", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div[2]/div/div[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8000b26e-6709-4a3d-bb49-f90381b6490a",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.1314709281",
+      "targets": [
+        ["name=entry.1314709281", "name"],
+        ["css=.quantumWizTextinputPapertextareaInput", "css:finder"],
+        ["xpath=//textarea[@name='entry.1314709281']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[2]/div/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5954ef39-514f-4787-add6-5bf7d7ca73ef",
+      "comment": "",
+      "command": "type",
+      "target": "name=entry.1314709281",
+      "targets": [
+        ["name=entry.1314709281", "name"],
+        ["css=.quantumWizTextinputPapertextareaInput", "css:finder"],
+        ["xpath=//textarea[@name='entry.1314709281']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[2]/div/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Nada nao"
+    }, {
+      "id": "5660e58f-0b6c-4b25-80f5-608d430691db",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quantumWizButtonPaperbuttonLabel",
+      "targets": [
+        ["css=.quantumWizButtonPaperbuttonLabel", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[3]/div/div/div/span/span", "xpath:idRelative"],
+        ["xpath=//span/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "715ef929-4569-4271-a2a6-507cfd5eadc5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quantumWizButtonPaperbuttonLabel",
+      "targets": [
+        ["css=.quantumWizButtonPaperbuttonLabel", "css:finder"],
+        ["xpath=//span/span", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win8164",
+      "windowTimeout": 2000
+    }, {
+      "id": "67a28cc0-d20f-4f8b-8a9f-c84743790f1e",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3cff103a-0a7a-4fc6-a469-ad82bba94aae",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win8164}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2550c207-4f0c-4d75-aaac-07bcf6a17e05",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "41cbae29-37d9-49d5-a234-2f9dda0ef38d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormviewerViewResponseConfirmContentContainer",
+      "targets": [
+        ["css=.freebirdFormviewerViewResponseConfirmContentContainer", "css:finder"],
+        ["xpath=//div[2]/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8006b63a-b02c-4582-b288-fbad4cb92450",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.freebirdFormviewerViewResponseConfirmationMessage",
+      "targets": [
+        ["css=.freebirdFormviewerViewResponseConfirmationMessage", "css:finder"],
+        ["xpath=//div[2]/div[2]", "xpath:position"]
+      ],
+      "value": "Sua resposta foi registrada."
+    }]
+  }, {
+    "id": "b7f6204b-0811-44f8-9f50-5b56fd0961f8",
+    "name": "ok",
+    "commands": [{
+      "id": "2d32d525-95d5-419a-b867-99409e7e8243",
+      "comment": "",
+      "command": "open",
+      "target": "https://docs.google.com/forms/d/e/1FAIpQLSfJSi8XDNx-KlsR4xNYEoyb01pzbRaHB5Nj5JNBvh_SQMew4Q/viewform?vc=0&c=0&w=1",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bccef15a-0678-487f-abee-25c92e6d497a",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "760x716",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9f260ced-f0e8-4b3f-9717-f3bf1a33ac72",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.366340186",
+      "targets": [
+        ["name=entry.366340186", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.366340186']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f804b752-6b16-4f06-bf2f-4d16d4c4f00c",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.366340186",
+      "targets": [
+        ["name=entry.366340186", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.366340186']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d2839bf1-b0df-4a15-972c-40563849caf5",
+      "comment": "",
+      "command": "type",
+      "target": "name=entry.366340186",
+      "targets": [
+        ["name=entry.366340186", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(1) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.366340186']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Ericke"
+    }, {
+      "id": "b53037fc-3331-4204-be5a-1af46026fdbc",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0001-11-06"
+    }, {
+      "id": "c555dfc0-f3dd-4648-990f-5b472edb82e1",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0019-11-06"
+    }, {
+      "id": "32a10e2d-3687-491f-ab8e-bc89f8239890",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "0199-11-06"
+    }, {
+      "id": "ee51a91b-6f55-4e44-9204-a4e57cd6ffbb",
+      "comment": "",
+      "command": "type",
+      "target": "css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput",
+      "targets": [
+        ["css=.quantumWizTextinputPaperinputEl:nth-child(2) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=(//input[@value=''])[2]", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/input", "xpath:position"]
+      ],
+      "value": "1992-11-06"
+    }, {
+      "id": "f2f51d1b-98ae-4e78-a30e-133087a97d38",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.2089971292",
+      "targets": [
+        ["name=entry.2089971292", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.2089971292']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[3]/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f29cfc08-1477-488b-b60f-5f0e099ef927",
+      "comment": "",
+      "command": "type",
+      "target": "name=entry.2089971292",
+      "targets": [
+        ["name=entry.2089971292", "name"],
+        ["css=.freebirdFormviewerViewNumberedItemContainer:nth-child(3) .quantumWizTextinputPaperinputInput", "css:finder"],
+        ["xpath=//input[@name='entry.2089971292']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[3]/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "erickrodrigoserradasilva@unigranrio.br"
+    }, {
+      "id": "f5b84de5-8e89-4b43-8fec-219a690c7a21",
+      "comment": "",
+      "command": "click",
+      "target": "css=.freebirdFormviewerViewItemsRadioOptionContainer:nth-child(1) .docssharedWizToggleLabeledLabelText",
+      "targets": [
+        ["css=.freebirdFormviewerViewItemsRadioOptionContainer:nth-child(1) .docssharedWizToggleLabeledLabelText", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[4]/div/div[2]/div/span/div/div/label/div/div[2]/div/span", "xpath:idRelative"],
+        ["xpath=//label/div/div[2]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8d044cd-d9d6-48ca-9580-06fc02054039",
+      "comment": "",
+      "command": "click",
+      "target": "css=.isActive .quantumWizTogglePaperradioOnRadio",
+      "targets": [
+        ["css=.isActive .quantumWizTogglePaperradioOnRadio", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[4]/div/div[2]/div/span/div/div/label/div/div/div[3]/div/div", "xpath:idRelative"],
+        ["xpath=//label/div/div/div[3]/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fb51a66b-671f-49f2-b3c2-1fba169d8760",
+      "comment": "",
+      "command": "click",
+      "target": "name=entry.1314709281",
+      "targets": [
+        ["name=entry.1314709281", "name"],
+        ["css=.quantumWizTextinputPapertextareaInput", "css:finder"],
+        ["xpath=//textarea[@name='entry.1314709281']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[2]/div/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "96a39929-3fc7-4894-b9d9-f11c5bacd3a1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.quantumWizButtonPaperbuttonEl",
+      "targets": [
+        ["css=.quantumWizButtonPaperbuttonEl", "css:finder"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[3]/div/div/div", "xpath:idRelative"],
+        ["xpath=//form/div/div[2]/div[3]/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f7d7cd98-4fa3-450c-8d4f-e4b637b26b85",
+      "comment": "",
+      "command": "click",
+      "target": "id=i.err.554449679",
+      "targets": [
+        ["id=i.err.554449679", "id"],
+        ["css=#i\\.err\\.554449679", "css:finder"],
+        ["xpath=//div[@id='i.err.554449679']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[4]", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "88c73bf5-da01-433e-910e-23c704c3f711",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=i.err.554449679",
+      "targets": [
+        ["id=i.err.554449679", "id"],
+        ["css=#i\\.err\\.554449679", "css:finder"],
+        ["xpath=//div[@id='i.err.554449679']", "xpath:attributes"],
+        ["xpath=//form[@id='mG61Hd']/div/div[2]/div[2]/div[5]/div/div[4]", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div[4]", "xpath:position"]
+      ],
+      "value": "Esta pergunta é obrigatória"
+    }]
+  }],
+  "suites": [{
+    "id": "61300516-a480-4d2f-99df-f996d1ac60f1",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5f045890-8406-4c9c-8114-0b49c37686a0"]
+  }],
+  "urls": ["https://docs.google.com/"],
+  "plugins": []
+}
